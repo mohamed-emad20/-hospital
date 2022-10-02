@@ -1,0 +1,12 @@
+nav{
+    border-bottom: 3px solid rgb(108, 108, 178);
+}
+.bg-image{
+    min-height: 100vh;
+    background:url(../images/about.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.mask-list{
+    padding-top: 160px;
+}
